@@ -1,0 +1,12 @@
+av==16.1.0
+deepface==0.0.100
+mediapipe==0.10.35
+numpy==2.4.6
+opencv-contrib-python==4.13.0.92
+opencv-python-headless==4.13.0.92
+pandas==3.0.3
+streamlit==1.57.0
+streamlit-webrtc==0.71.0
+tensorflow==2.21.0
+ultralytics==8.4.53
+ultralytics-thop==2.0.19

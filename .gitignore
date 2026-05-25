@@ -1,0 +1,24 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Variables privadas y secretos
+.env
+.streamlit/secrets.toml
+
+# Resultados generados por usuarios
+resultados/*
+!resultados/.gitkeep
+
+# Fotografías privadas de prueba
+images/*
+!images/.gitkeep
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
